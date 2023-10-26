@@ -1,6 +1,6 @@
 # Amazon Prime Analysis Dashboard
 
-![Dashboard Preview](https://screenrec.com/share/FrR7tQ0ind)
+![Dashboard](https://docs.appian.com/suite/help/22.3/sail/ds-images/uxds_images/sales_dashboard_dark_theme.png)
 
 **Username:** hiranvjoseph  
 **Name:** Hiran Joseph  
